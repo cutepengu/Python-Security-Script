@@ -20,7 +20,7 @@ test_usernames = [
     "John!", # invalid: contains ("!")
     "Alice1234567", # invalid: (exceeds ten characters)
     "Megan>Charles", # invalid: contains ("<")
-    "JaneSmith1" # valid
+    "Jane_Smith" # valid
     ]
 
 # Print output for each username
